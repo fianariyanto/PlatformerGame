@@ -1,0 +1,73 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 930MX (ID=0x134e)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.107 seconds
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\OWN PROJECT\UNITY\Platformer\Platformer Game_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.157974 ms
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.245978 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 9.849181 ms (FindLiveObjects: 0.036693 ms CreateObjectMapping: 0.019200 ms MarkObjects: 9.786888 ms  DeleteObjects: 0.005546 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.604160 ms
+
+Unloading 65 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.822187 ms (FindLiveObjects: 0.044373 ms CreateObjectMapping: 0.038826 ms MarkObjects: 0.171520 ms  DeleteObjects: 0.566187 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.718507 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 602.
+Total: 0.268800 ms (FindLiveObjects: 0.040106 ms CreateObjectMapping: 0.021333 ms MarkObjects: 0.191146 ms  DeleteObjects: 0.015360 ms)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.594773 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 627.
+Total: 0.296960 ms (FindLiveObjects: 0.053760 ms CreateObjectMapping: 0.034560 ms MarkObjects: 0.204373 ms  DeleteObjects: 0.003840 ms)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.549120 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 773.
+Total: 0.329386 ms (FindLiveObjects: 0.092586 ms CreateObjectMapping: 0.025173 ms MarkObjects: 0.206933 ms  DeleteObjects: 0.003840 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 25b0 -> priority: 1 
